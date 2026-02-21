@@ -5,3 +5,4 @@ langchain-core
 ollama
 matplotlib
 plotly
+mistralai
